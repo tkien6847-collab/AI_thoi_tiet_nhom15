@@ -1,0 +1,10 @@
+pandas==3.0.5
+matplotlib==3.11.1
+seaborn==0.13.2
+scikit-learn==1.9.0
+xgboost==3.2.0
+streamlit==1.62.0
+requests>=2.32.0
+plotly>=6.0.0
+jupyter>=1.1.1
+ipykernel==7.3.0

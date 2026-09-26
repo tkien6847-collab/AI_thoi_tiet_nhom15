@@ -1,0 +1,2 @@
+model,feature_set,split,MAE,RMSE,R2,Training Time
+XGBoost final,C_time_weather_lag,test,29.146013259887695,47.7517255700972,0.9501883387565613,0.5350622000114527
